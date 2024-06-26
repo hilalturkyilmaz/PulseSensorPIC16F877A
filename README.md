@@ -3,7 +3,9 @@
 This project was prepared for Istanbul Medipol University 2023-2024 spring semester microprocessors course by;
 
 Vagif Jafarlı 61210018
+
 Yusuf Emir Fil 64210102
+
 Hilal Türkyılmaz 9A190001
 
 
