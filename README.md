@@ -1,7 +1,7 @@
 # Pulse Sensor for PIC16F877A
 
 
-This project was prepared for Istanbul Medipol University 2023-2024 spring semester microprocessors course by;
+This project was prepared for Istanbul Medipol University 2023-2024 spring semester Microprocessors course by;
 
 Vagif Jafarlı 61210018
 
