@@ -1,5 +1,6 @@
 # Pulse Sensor for PIC16F877A
 
+
 This project was prepared for Istanbul Medipol University 2023-2024 spring semester microprocessors course by;
 
 Vagif Jafarlı 61210018
@@ -7,6 +8,7 @@ Vagif Jafarlı 61210018
 Yusuf Emir Fil 64210102
 
 Hilal Türkyılmaz 9A190001
+
 
 
 The circuit design involves connecting the pulse sensor to the analog input pin of the PIC16F877A microcontroller. The 20 MHz crystal and 33pF capacitors are connected to the oscillator pins of the microcontroller to provide the necessary clock signal. The 4.7k resistor is used as a pull-up resistor for the microcontroller's input pin. The 16x2 LCD is connected to the digital output pins of the microcontroller, and the 10k potentiometer is used to control the contrast of the LCD.
