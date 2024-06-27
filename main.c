@@ -1,10 +1,3 @@
-/*
- * File:   main.c
- * Author: Sourav Gupta
- * By:- circuitdigest.com
- * Created on September 30, 2018, 2:26 PM
- */
-
 // PIC16F877A Configuration Bit Settings
 
 // 'C' source line config statements
